@@ -92,16 +92,17 @@ img {
 }
 
 /*Style rules for footer content*/
-footer{
-    text-align: center;
-    font-size: 0.85em;
-    background-color: #1d396d;
-    color: #e3eaf8;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    padding-right: 0%;
-    padding-left: 0%;
+footer {
+  text-align: center;
+  font-size: 0.85em;
+  background-color: #1d396d;
+  color: #e3eaf8;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 0%;
+  padding-left: 0%;
 }
-footer p{
+
+footer p {
   color: #e3eaf8;
 }
